@@ -12,7 +12,7 @@ A WiFi-connected kiln monitoring system built around the ESP32-C6, a Type S ther
 - Adafruit MAX31856 thermocouple breakout (Type S or K)
 - GC9A01A 1.28" round TFT display
 - Passive buzzer
-- 10kΩ potentiometer
+- 100Ω potentiometer
 - Perforated PCB (90×70mm recommended)
 
 **Accounts (all free)**
